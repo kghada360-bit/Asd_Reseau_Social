@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1745095457 source:c:\users\user\desktop\asd\projetasd2\graphe.c
+	"graphe.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<limits.h>
+
+1745089785 c:\users\user\desktop\asd\projetasd2\graphe.h
+	"ELTUSER.h"
+
+1745087199 c:\users\user\desktop\asd\projetasd2\eltuser.h
+
+1745090087 source:c:\users\user\desktop\asd\projetasd2\eltuser.c
+	"ELTUSER.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1745149248 source:c:\users\user\desktop\asd\projetasd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graphe.h"
+	<unistd.h>
+
